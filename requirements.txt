@@ -2,3 +2,5 @@ streamlit
 pandas
 matplotlib
 numpy
+altair=4.2.2
+standard-imghdr
